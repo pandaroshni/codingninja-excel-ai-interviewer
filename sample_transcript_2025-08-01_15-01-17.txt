@@ -1,0 +1,58 @@
+Q1: What is VLOOKUP in Excel?
+User Answer: j
+Score: 0/5
+Feedback: Unfortunately, the candidate did not provide a clear or accurate answer. The response "j" does not make sense in the context of Excel, and it's not a expected answer from an expert.
+
+Improvement Tips:
+
+* Make sure to take a moment to think before answering the question.
+* If you're not sure about the answer, it's okay to say "I'm not familiar with VLOOKUP, but I can tell you how to find the information."
+* Alternatively, you can try to explain what VLOOKUP is in a simplified manner, even if you're not an expert. For example, "VLOOKUP is a function that helps you find a value in a table and return a corresponding value from another column."
+* Practice answering common Excel questions, such as VLOOKUP, to build your confidence and skills.
+--------------------------------------------------
+Q2: How do you use PivotTables in Excel?
+User Answer: h
+Here's the evaluation:
+
+Score: 0/5
+Feedback: Unfortunately, the candidate's answer is completely unclear. The response "h" is not a valid answer, and it does not demonstrate any understanding of how to use PivotTables in Excel. I was expecting a clear and concise explanation of how to create and manipulate PivotTables, including examples of common use cases and potential pitfalls.
+Improvement Tips:
+
+* Be prepared to provide specific examples and explanations of Excel features, including PivotTables.
+* When answering technical questions, take a moment to think before speaking, and try to provide clear and concise language.
+* Practice speaking about Excel features and functionality, including scenarios and examples, to build confidence and fluency. Consider mimicking interview questions to simulate the real thing!
+--------------------------------------------------
+Q3: Write a formula to calculate a 10% tax on the value in cell A1.
+User Answer: h
+Score: 0/5
+Feedback: Unfortunately, the candidate's answer, "h", is not a valid Excel formula. It's possible that the candidate attempted to answer the question quickly, but they failed to provide a correct formula. In Excel formulas, "h" is not a valid function or operator.
+Improvement Tips: To avoid this mistake, the candidate should take a moment to think about the problem and try to recall the basic Excel formulas. A good approach would be to type = and then think about what function they need to use. In this case, they could use the PRODUCT function to calculate 10% of the value in cell A1, or they could use the multiplication operator (*) to multiply the value in cell A1 by 0.10.
+--------------------------------------------------
+Q4: What’s the difference between relative and absolute referencing in Excel?
+User Answer: o
+Here's the evaluation:
+
+Score: 2/5
+Feedback: The candidate's answer is incomplete and lacks clarity. They must have missed the basic concept of relative and absolute referencing, as well as the implications of each type. It seems like they might be scratching their head without any clear understanding of the topic.
+Improvement Tips: 
+* Make sure you start by defining the two types of referencing: relative and absolute.
+* Explain the difference between them, providing examples that illustrate how each type works.
+* Highlight the scenarios where relative referencing is suitable and absolute referencing is necessary.
+* If you're struggling to explain the concept, try using a simple analogy or asking yourself what you would do in a situation where you need to use one over the other.
+--------------------------------------------------
+Q5: Explain how you can use data validation in Excel.
+User Answer: h
+Score: 0/5
+Feedback: Unfortunately, the candidate's answer was unclear and did not provide any relevant information about data validation in Excel. The answer was a single letter "h", which does not demonstrate any understanding of data validation or its usage in Excel.
+
+Improvement Tips:
+
+* Make sure to provide a clear and concise answer.
+* Explain what data validation is and how it can be used in Excel (e.g., to restrict input data, create drop-down lists, or validate dates).
+* Provide specific examples of scenarios where data validation can be useful.
+* Demonstrate a clear structure and organization in your answer.
+
+In a real-world scenario, a more suitable answer would be:
+
+"I can use data validation in Excel to restrict the type of data that can be entered into a cell. For example, I can create a drop-down list of allowed values, validate dates, or restrict input to a specific range of values. Data validation can also help to ensure data consistency and reduce errors by limiting the types of input that can be made."
+--------------------------------------------------

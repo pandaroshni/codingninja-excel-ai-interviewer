@@ -6,7 +6,8 @@ import datetime
 import random
 
 # Load API key from environment
-groq_api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
+load_dotenv()
+groq_api_key = os.getenv("GROQ_API_KEY")
 
 # Master list of 10 Excel questions
 all_questions = [
